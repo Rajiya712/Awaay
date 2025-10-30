@@ -1,0 +1,26 @@
+# Ignore node_modules directories for both server and client
+/node_modules
+/server/node_modules/
+/client/node_modules/
+
+# Ignore build directories for client (optional, if applicable)
+/client/build
+/client/dist
+
+# Ignore other specific files or directories as needed (optional)
+file1.txt
+file2.log
+config.json
+
+# Ignore environment-specific files (example: .env, .env.local)
+*.env
+*.env.local
+
+# Ignore IDE/Editor-specific files (example: Visual Studio Code, JetBrains IDEs)
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific files (example: macOS .DS_Store, Windows Thumbs.db)
+.DS_Store
+Thumbs.db

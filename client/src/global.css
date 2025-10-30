@@ -1,0 +1,49 @@
+/* Add these styles to a separate CSS file or use a CSS-in-JS solution */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 1rem;
+}
+
+.logo {
+  font-size: 1.5rem;
+}
+
+.nav-items {
+  display: flex;
+}
+
+.item {
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.login-dropdown {
+  position: relative;
+}
+
+.login-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown-content {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #f0f0f0;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+}
+
+.dropdown-content button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
