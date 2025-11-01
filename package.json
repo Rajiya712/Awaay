@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:client": "cd client && yarn start",
+    "start:client": "cd client && npm start",
     "start:server": "cd server && nodemon ./src/server.js",
-    "dev": "concurrently \"yarn start:client\" \"yarn start:server\""
+    "dev": "concurrently \"npm run start:client\" \"npm run start:server\""
   },
   "repository": {
     "type": "git",
