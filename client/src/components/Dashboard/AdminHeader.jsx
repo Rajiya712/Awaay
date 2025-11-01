@@ -34,7 +34,7 @@ export function AdminHeader({burger}) {
         textDecoration:"none",
         color:"coral"
       }}>
-        <h2>Web Based Bus Ticket Booking System</h2>
+        <h2>Awaay</h2>
       </Link>
       <Box sx={{flex: 1}} />
     </Header>

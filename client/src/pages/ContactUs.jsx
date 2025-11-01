@@ -21,7 +21,7 @@ const ContactUsPage = () => {
           <h2 style={{textAlign:"center", textDecoration:"underline", color:"#f04935"}}>CONTACT US</h2>
          <div style={{textAlign:"center"}}>
          <h3>
-            Thank you for choosing Web Based Bus Ticket Booking System for your bus ticketing needs. We
+            Thank you for choosing Awaay for your bus ticketing needs. We
             value your trust and are committed to providing exceptional customer
             service. If you have any questions, or concerns, or need assistance,
             our friendly and knowledgeable support team is here to help you.
@@ -39,7 +39,7 @@ const ContactUsPage = () => {
             Your satisfaction is our priority, and we are dedicated to assisting
             you at every step of your journey. Feel free to contact us anytime,
             and let us make your bus travel as smooth and enjoyable as possible.
-            Thank you for choosingWeb Based Bus Ticket Booking System Safe travels,Web Based Bus Ticket Booking System Team.
+            Thank you for choosingAwaay Safe travels,Awaay Team.
           </h3>
          </div>
         </Grid.Col>

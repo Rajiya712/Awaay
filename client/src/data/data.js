@@ -24,7 +24,7 @@ export const navLinks = [
 
 export const footerData = [
   {
-    title: "AboutWeb Based Bus Ticket Booking System",
+    title: "AboutAwaay",
     links: [
       {
         label: "Book ticket",

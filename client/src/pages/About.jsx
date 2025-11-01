@@ -16,7 +16,7 @@ const AboutPage = () => {
             />
           </Grid.Col>
           <Grid.Col span={12} md={6} mt={100}>
-           <h2 style={{textAlign:"center"}}>Welcome toWeb Based Bus Ticket Booking System,</h2>
+           <h2 style={{textAlign:"center"}}>Welcome toAwaay,</h2>
             <h3>
               your one-stop destination for hassle-free and convenient bus
               ticket bookings. We are also available on online based ticket

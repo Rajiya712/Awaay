@@ -42,7 +42,7 @@ const Footer = () => {
                     color: "#fff",
                   }}
                 >
-                  Web Based Bus Ticket Booking System
+                  Awaay
                 </h2>           
             </div>
             <small
@@ -71,7 +71,7 @@ const Footer = () => {
                   color: "#fff",
                 }}
               >
-                WEB BASED BUS TICKET BOOKING SYSTEM 
+                Awaay 
               </span>
             </small>
           </Grid.Col>          
