@@ -24,3 +24,4 @@ config.json
 # Ignore OS-specific files (example: macOS .DS_Store, Windows Thumbs.db)
 .DS_Store
 Thumbs.db
+*.deb
